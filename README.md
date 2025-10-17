@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Configuration](https://github.com/dariussimple-ctrl)
+  - [osTicket: Configuration](https://github.com/dariussimple-ctrl/configurations)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dariussimple-ctrl)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/dariussimple-ctrl)
